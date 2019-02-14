@@ -1,4 +1,4 @@
-﻿__author__ = 'Rudakov Kirill'
+﻿__author__ = 'arsen52096_/'
 
 from toggles import *
 import seaborn as sns
